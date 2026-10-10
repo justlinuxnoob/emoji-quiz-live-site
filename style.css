@@ -1,0 +1,9 @@
+:root { color-scheme: dark; }
+body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; background: linear-gradient(160deg, #1d0b4f, #4a1fa8 45%, #2f56d6 75%, #6aa8ff); color: #fff; min-height: 100vh; }
+main { max-width: 720px; margin: 0 auto; padding: 32px 18px 60px; line-height: 1.6; }
+h1 { text-align: center; font-size: 2.2rem; margin: 8px 0 4px; letter-spacing: 1px; }
+h2 { margin-top: 1.8em; }
+a { color: #ffd84d; }
+.card { background: rgba(29, 11, 79, .55); border: 1px solid rgba(255,255,255,.25); border-radius: 16px; padding: 18px 22px; margin: 18px 0; }
+.center { text-align: center; }
+footer { text-align: center; opacity: .8; font-size: .9rem; margin-top: 40px; }
